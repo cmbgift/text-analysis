@@ -1,10 +1,7 @@
+#一级标题  
 这是一个爬取京东商品详情以及商品评论的爬虫。
-
 以下为主要思路：
-
 1. 爬虫代码(jd_comment_spiders.py)）；
-
-
 删除表 DROP TABLE jd_skus ;
 CREATE DATABASE jd_skus CHARACTER SET utf8 COLLATE utf8_general_ci;
 
